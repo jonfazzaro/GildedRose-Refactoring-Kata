@@ -1,0 +1,18 @@
+C:\Users\jfazzaro\AppData\Local\Temporary Projects\GildedRose\bin\Debug\GildedRose.exe.config
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\GildedRose.exe.config
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\GildedRose.exe
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\GildedRose.pdb
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\ApprovalTests.dll
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\ApprovalUtilities.dll
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\ApprovalUtilities.Net45.dll
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\nunit.framework.dll
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\ApprovalTests.xml
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\ApprovalUtilities.xml
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\ApprovalUtilities.Net45.xml
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\nunit.framework.xml
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\obj\Debug\GildedRose.csprojResolveAssemblyReference.cache
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\obj\Debug\GildedRose.exe
+C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\obj\Debug\GildedRose.pdb
