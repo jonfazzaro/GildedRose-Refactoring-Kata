@@ -13,6 +13,5 @@ C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\
 C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\ApprovalUtilities.Net45.xml
 C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\nunit.framework.xml
 C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\bin\Debug\Microsoft.ReportViewer.WinForms.xml
-C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\obj\Debug\GildedRose.csprojResolveAssemblyReference.cache
 C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\obj\Debug\GildedRose.exe
 C:\dev\kata\legacy\GildedRose-Refactoring-Kata\csharp\GildedRose\GildedRose\obj\Debug\GildedRose.pdb
