@@ -82,6 +82,7 @@
     <Compile Include="ApprovalTest.cs" />
     <Compile Include="GildedRose.cs" />
     <Compile Include="Items\BackstagePass.cs" />
+    <Compile Include="Items\ConjuredItem.cs" />
     <Compile Include="Items\Item.cs" />
     <Compile Include="Items\Sulfuras.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
