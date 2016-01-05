@@ -81,6 +81,7 @@
     <Compile Include="Items\AgedBrie.cs" />
     <Compile Include="ApprovalTest.cs" />
     <Compile Include="GildedRose.cs" />
+    <Compile Include="Items\BackstagePass.cs" />
     <Compile Include="Items\Item.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TextTestFixture.cs" />
