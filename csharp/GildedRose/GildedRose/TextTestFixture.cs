@@ -1,3 +1,4 @@
+using GildedRose.Items;
 using System.Collections.Generic;
 
 namespace GildedRose {

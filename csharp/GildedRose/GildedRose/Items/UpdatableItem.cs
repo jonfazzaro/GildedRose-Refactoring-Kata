@@ -1,4 +1,4 @@
-﻿namespace GildedRose {
+﻿namespace GildedRose.Items {
     class UpdatableItem : Item {
         public virtual void UpdateQuality() {
             if (Name != "Backstage passes to a TAFKAL80ETC concert") {

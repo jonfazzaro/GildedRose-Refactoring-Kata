@@ -1,4 +1,4 @@
-﻿namespace GildedRose {
+﻿namespace GildedRose.Items {
     class AgedBrie : UpdatableItem {
         public AgedBrie() {
             Name = "Aged Brie";
